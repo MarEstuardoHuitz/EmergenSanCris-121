@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "267360512624",
+    "project_id": "lucky-altar-364618",
+    "storage_bucket": "lucky-altar-364618.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:267360512624:android:f797bcb08cbae69ea362b5",
+        "android_client_info": {
+          "package_name": "com.emergenciasgt.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "267360512624-f2uqjk701ti5grsp9d0m85gc2p21a16f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.emergenciasgt.app",
+            "certificate_hash": "97020a8eef11feda540ed80c469b546c42bdd69d"
+          }
+        },
+        {
+          "client_id": "267360512624-bvgnsau1mnq4oc66vjub0b4ci6g51pi6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYm95y61tdSJ1vTymDewWw7CbhNj2i8lw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "267360512624-bvgnsau1mnq4oc66vjub0b4ci6g51pi6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
